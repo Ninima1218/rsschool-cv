@@ -6,7 +6,7 @@
       * Phone number: +995 598 55 73 23
       * Mail: [ninima1218@gmail.com] (<ninima1218@gmail.com>)
       * WhatsApp: +995 598 55 73 23
-      * Telegram: @ninima1218
+      * Telegram: @Ninima1218
     *********
     ## About me
        * Hi, my name is Nino. I am a beginner frontend developer. I am 36 years old and live in Georgia.
@@ -36,16 +36,13 @@
 
        // program for a simple calculator
 
-// take the operator input
 const operator = prompt('Enter operator ( either +, -, \* or / ): ');
 
-// take the operand input
 const number1 = parseFloat(prompt('Enter first number: '));
 const number2 = parseFloat(prompt('Enter second number: '));
 
 let result;
 
-// using if...else if... else
 if (operator == '+') {
 result = number1 + number2;
 }
@@ -59,7 +56,6 @@ else {
 result = number1 / number2;
 }
 
-// display the result
 console.log(`${number1} ${operator} ${number2} = ${result}`);
 
     **********
