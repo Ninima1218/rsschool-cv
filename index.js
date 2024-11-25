@@ -11,3 +11,11 @@ function showSlide(n) {
 
 prevBtn.addEventListener('click', () => showSlide(index - 1));
 nextBtn.addEventListener('click', () => showSlide(index + 1));
+
+const burgerMenu = document.querySelector('.burger-menu');
+const navUl = document.querySelector('nav ul');
+
+burgerMenu.addEventListener('click', () => {
+    burgerMenu.classList.toggle('active');
+    navUl.classList.toggle('active');
+});
