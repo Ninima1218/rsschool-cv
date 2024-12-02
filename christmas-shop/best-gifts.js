@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!response.ok) throw new Error('Network response was not ok');
     const gifts = await response.json();
 
-    const randomGifts = getRandomGifts(gifts);  // Убедись, что эта функция существует
+    const randomGifts = getRandomGifts(gifts);
     renderGifts(randomGifts);
   } catch (error) {
     console.error('Failed to load gifts:', error);
