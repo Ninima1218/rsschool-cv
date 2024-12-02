@@ -1,23 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const burgerMenu = document.querySelector('.burger-menu');
-    const navUl = document.querySelector('.nav-list');
-    
-    burgerMenu.addEventListener('click', () => {
-        burgerMenu.classList.toggle('active');
-        navUl.classList.toggle('active');
-    });
+  const slider = document.querySelector('.slider');
+  const prevButton = document.querySelector('.prev');
+  const nextButton = document.querySelector('.next');
 
-    const slides = document.querySelector('.slides');
-    const slide = document.querySelectorAll('.slide');
-    const prevBtn = document.querySelector('.prev');
-    const nextBtn = document.querySelector('.next');
-    let index = 0;
+  let slideIndex = 0;
+  const slideWidth = document.querySelector('.slide').offsetWidth; // Ширина одного слайда
 
-    function showSlide(n) {
-        index = (n + slide.length) % slide.length; 
-        slides.style.transform = `translateX(${-index * 100}%)`;
-    }
+  prevButton.addEventListener('click', () => {
+    slideIndex = (slideIndex - 1 + 4) % 4; // 4 - количество слайдов
+    slider.style.transform = `translateX(-${slideIndex * slideWidth}px)`; // Прокручиваем слайдер влево
+  });
 
-    prevBtn.addEventListener('click', () => showSlide(index - 1));
-    nextBtn.addEventListener('click', () => showSlide(index + 1));
+  nextButton.addEventListener('click', () => {
+    slideIndex = (slideIndex + 1) % 4; // 4 - количество слайдов
+    slider.style.transform = `translateX(-${slideIndex * slideWidth}px)`; // Прокручиваем слайдер вправо
+  });
 });
