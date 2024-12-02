@@ -92,6 +92,7 @@ header nav ul li a {
 header nav ul li a:hover {
     color: #FF4646;
 }
+
 .hero {
     display: flex;
     justify-content: center;
