@@ -84,3 +84,13 @@ _Sep 2024 – Jan 2025 | Tbilisi, Georgia_
 - Responsive design and UI/UX principles
 
 ---
+
+## 🌍 English Proficiency
+
+**Level**: Upper-Intermediate (B2)
+
+- Regular communication with international clients and teams
+- Participation in English-language tech communities and documentation
+- Confident in written and spoken collaboration
+
+---
