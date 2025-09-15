@@ -40,3 +40,12 @@ Detail-oriented and energetic Frontend Developer with 2+ years of experience bui
 - GitHub Copilot, Cursor, ChatGPT (AI-assisted development)
 
 ---
+
+## 💻 Code Samples
+
+- [Alchemy Beauty Salon](https://ninima1218.github.io/Portfolio---Nino-Markarovi/#alchemy-beauty-salon) — React + Vite, booking system, gift certificate purchase
+- [Language Learning SPA](https://ninima1218.github.io/Portfolio---Nino-Markarovi/#language-learning-platform) — React + MobX, flashcard system
+- [Legal Firm Website](https://ninima1218.github.io/Portfolio---Nino-Markarovi/#legal-firm-website) — SEO-optimized HTML/CSS
+- [Speech Therapist Platform](https://ninima1218.github.io/Portfolio---Nino-Markarovi/#speech-therapist-platform) — WordPress + JS, appointment scheduling
+
+---
