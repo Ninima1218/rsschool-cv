@@ -15,3 +15,28 @@
 Detail-oriented and energetic Frontend Developer with 2+ years of experience building scalable, high-performance web applications. I specialize in React, TypeScript, and modern UI architecture, with a strong focus on responsive design, performance optimization, and clean code. I thrive in collaborative environments and enjoy solving complex layout challenges. My goal is to contribute to meaningful products, grow as a developer, and bring beauty and clarity to every interface I touch.
 
 ---
+
+## 🛠️ Skills
+
+**Languages & Frameworks**
+
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js, Redux Toolkit, MobX, Context API
+- HTML5, CSS3, SCSS/SASS, BEM
+
+**Architecture & Methodologies**
+
+- Component-based design, FSD, modular architecture
+- REST API integration
+- Responsive & Mobile-First design
+- Cross-browser compatibility
+- A/B testing, performance audits
+
+**Tools & Platforms**
+
+- Git, GitHub, GitLab
+- Vite, Webpack, NPM/Yarn
+- Figma, WordPress, ServiceNow
+- GitHub Copilot, Cursor, ChatGPT (AI-assisted development)
+
+---
