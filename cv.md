@@ -49,3 +49,38 @@ Detail-oriented and energetic Frontend Developer with 2+ years of experience bui
 - [Speech Therapist Platform](https://ninima1218.github.io/Portfolio---Nino-Markarovi/#speech-therapist-platform) — WordPress + JS, appointment scheduling
 
 ---
+
+## 👩‍💻 Experience
+
+**Frontend Developer | Freelance**  
+_Jan 2023 – Present | Remote_
+
+- Developed 6+ commercial websites across healthcare, beauty, and aviation sectors
+- Increased client revenue by 20–40% through UX/UI optimization and automation
+- Integrated booking systems, payment APIs, and responsive layouts from Figma
+- Used AI tools for debugging, refactoring, and test generation
+
+**Frontend Developer Intern | 5D Hub**  
+_Sep 2024 – Jan 2025 | Tbilisi, Georgia_
+
+- Contributed to 5+ landing pages using Next.js and TypeScript
+- Improved code reusability by 15% through modular design
+- Ensured 100% cross-browser compatibility and responsive behavior
+- Participated in sprint planning and code reviews
+
+---
+
+## 🎓 Education & Training
+
+**EPAM Campus | Web Development Training (2025)**
+
+- ServiceNow, SQL, Automation Engines
+- Enterprise-level development workflows
+- AI-assisted debugging and testing
+
+**ITGirls School of Technology | Frontend Development Program (2023)**
+
+- HTML, CSS, JavaScript fundamentals
+- Responsive design and UI/UX principles
+
+---
